@@ -1,0 +1,92 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Haptic Coach wearable codelab"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Haptic Coach"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Haptic Coach"
+    },
+    {
+      "name": "coach_title",
+      "value": "Haptic Coach"
+    },
+    {
+      "name": "coach_unit_spm",
+      "value": "SPM"
+    },
+    {
+      "name": "coach_unit_beats",
+      "value": "beats"
+    },
+    {
+      "name": "coach_state_ready",
+      "value": "READY"
+    },
+    {
+      "name": "coach_state_live",
+      "value": "LIVE"
+    },
+    {
+      "name": "coach_active_title",
+      "value": "Rhythm Active"
+    },
+    {
+      "name": "coach_label_output",
+      "value": "Output"
+    },
+    {
+      "name": "coach_label_spatial",
+      "value": "Spatial"
+    },
+    {
+      "name": "coach_label_streams",
+      "value": "Streams"
+    },
+    {
+      "name": "coach_label_mode",
+      "value": "Mode"
+    },
+    {
+      "name": "coach_label_cue",
+      "value": "Cue"
+    },
+    {
+      "name": "coach_label_muted",
+      "value": "Muted"
+    },
+    {
+      "name": "coach_action_start",
+      "value": "Start"
+    },
+    {
+      "name": "coach_action_starting",
+      "value": "Starting"
+    },
+    {
+      "name": "coach_action_stop",
+      "value": "Stop"
+    },
+    {
+      "name": "coach_action_stopping",
+      "value": "Stopping"
+    },
+    {
+      "name": "coach_spatial_unavailable",
+      "value": "Unavailable"
+    },
+    {
+      "name": "coach_spatial_enabled",
+      "value": "Enabled"
+    },
+    {
+      "name": "coach_spatial_supported",
+      "value": "Supported"
+    }
+  ]
+}

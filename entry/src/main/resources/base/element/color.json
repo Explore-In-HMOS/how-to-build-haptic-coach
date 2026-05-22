@@ -1,0 +1,56 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "coach_background",
+      "value": "#101617"
+    },
+    {
+      "name": "coach_panel_background",
+      "value": "#172022"
+    },
+    {
+      "name": "coach_status_row_background",
+      "value": "#1A2426"
+    },
+    {
+      "name": "coach_text_primary",
+      "value": "#F7F4EA"
+    },
+    {
+      "name": "coach_text_secondary",
+      "value": "#9FB6AD"
+    },
+    {
+      "name": "coach_text_dark",
+      "value": "#101414"
+    },
+    {
+      "name": "coach_text_pressed",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "coach_primary",
+      "value": "#CDE96D"
+    },
+    {
+      "name": "coach_stop",
+      "value": "#D35445"
+    },
+    {
+      "name": "coach_warning",
+      "value": "#FFD166"
+    },
+    {
+      "name": "coach_error",
+      "value": "#FFB8A8"
+    },
+    {
+      "name": "coach_shadow",
+      "value": "#050707"
+    }
+  ]
+}

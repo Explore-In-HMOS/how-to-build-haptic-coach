@@ -1,0 +1,57 @@
+{
+  "MetaData": {
+    "Create": "2026-05-11",
+    "Description": "160 SPM cadence cue",
+    "Version": 1.0,
+    "ChannelNumber": 1
+  },
+  "Channels": [
+    {
+      "Parameters": {
+        "Index": 0
+      },
+      "Pattern": [
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 0,
+            "Parameters": {
+              "Frequency": 55,
+              "Intensity": 85
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 375,
+            "Parameters": {
+              "Frequency": 55,
+              "Intensity": 70
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 750,
+            "Parameters": {
+              "Frequency": 55,
+              "Intensity": 70
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 1125,
+            "Parameters": {
+              "Frequency": 55,
+              "Intensity": 70
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
